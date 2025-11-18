@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.Python
+
+# VS Code
+.vscode/
+
+# Hugging Face cache
+cache/
+transformers_cache/
+*.cache
+~/.cache/
+
+# Model files and datasets
+models/
+data/
+*.safetensors
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints
+
+# logs
+*.log
