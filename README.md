@@ -25,5 +25,5 @@
 ## Quick setup (local)
 1. Clone repository:
 ```bash
-git clone <https://github.com/vaiji1129/Essay_Feedback_Tool.git>
+git clone https://github.com/vaiji1129/Essay_Feedback_Tool.git
 cd Essay_Feedback_Tool
