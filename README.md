@@ -60,6 +60,7 @@ A short 1–2 minute demo shows the app running and producing feedback.
 ```bash
 git clone https://github.com/vaiji1129/Essay_Feedback_Tool.git
 cd Essay_Feedback_Tool
+```
 
 ## Contact / Author
 
