@@ -58,7 +58,7 @@ All screenshots are in the `screenshots/` folder.
 
 A short 1–2 minute demo shows the app running and producing feedback.
 
-**Video link:** *(paste YouTube or Drive link here after upload - `https://youtu.be/your_unlisted_video`)*  
+**Video link:** *`https://youtu.be/pcngoemXLsc`*  
 
 ## Prerequisites
 
