@@ -1,6 +1,11 @@
 # WriteWise — Essay & Assignment Feedback Tool
 
-**One-line:** A Streamlit-based essay feedback tool using BERT (CoLA) for acceptability checks and T5-small for improvement suggestions.
+## Overview
+WriteWise is an NLP-powered essay feedback system built using Streamlit. 
+It analyzes sentence acceptability using BERT (CoLA), generates improvement 
+suggestions via T5-small, and computes readability, structure, vocabulary 
+complexity, and an automated grade. Designed as part of a virtual internship 
+project, it provides students with quick writing feedback.
 
 ---
 
@@ -55,11 +60,28 @@ A short 1–2 minute demo shows the app running and producing feedback.
 
 **Video link:** *(paste YouTube or Drive link here after upload - `https://youtu.be/your_unlisted_video`)*  
 
+## Prerequisites
+
+Before running this project, ensure you have the following installed:
+
+- **Python 3.10.x** (recommended)
+- **pip** package manager
+- A modern web browser (to run Streamlit interface)
+- Stable internet connection (for first-time model download)
+
 ## Quick setup (local)
 1. Clone repository:
 ```bash
 git clone https://github.com/vaiji1129/Essay_Feedback_Tool.git
 cd Essay_Feedback_Tool
+```
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+3. Run the Streamlit app:
+```bash
+streamlit run feedback_tool.py
 ```
 
 ## Contact / Author
