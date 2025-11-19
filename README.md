@@ -13,6 +13,7 @@ project, it provides students with quick writing feedback.
 - `feedback_tool.py` — Streamlit app (entry point)
 - `requirements.txt` — Python dependencies
 - `screenshots/` — images showing app UI and outputs
+- `project_report/` — internship report (PDF + any supporting files)
 - `demo_script.txt` — short script for the 1–2 minute demo
 - `.gitignore` — excludes venv and model caches
 
